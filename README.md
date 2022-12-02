@@ -1,4 +1,4 @@
-Hello, my name is Joshua Meza, and I am a senior part time cybersecurity student. My former experience includes networking, object-oriented programming, and cybersecurity. I also freelanced for a year doing videography and got to work with several well-known influencers. 
+Hello, my name is Joshua Meza, and I am a senior part time cybersecurity student. My former experience includes networking, object-oriented programming, and cybersecurity.
 
 Networking / Cybersecurity
 •	Security Best Practices, Policies, & Tools
@@ -13,7 +13,3 @@ Programming / Scripting
 •	Developing search and sorting algorithms 
 •	Object oriented programming
 •	BASH
-
-Design / Videography 
-•	I have worked with several large social media pages and, YouTube Content Creators, with 800k plus followers. 
-•	Helped individuals get noticed by film industry organizations which purportedly extended into professions of their own.
